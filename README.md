@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grosuionutandrei
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Java
+- 🌱 I am a beginer in Java , and React.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ionutandreigrosu@yahoo.com
 
